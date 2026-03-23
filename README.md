@@ -4,6 +4,13 @@
 ### ---------- DT Money - Gestão de Finanças Pessoais
 O DT Money é uma aplicação de controlo financeiro desenvolvida para ajudar os utilizadores a gerir as suas entradas e saídas de capital de forma simples e intuitiva. A aplicação permite o registo de transações, a visualização de um resumo financeiro (entradas, saídas e total) e a filtragem de dados.
 
+
+### ---------- Link para visualização do projeto
+
+```bash
+   https://react-dtmoney-five.vercel.app?_vercel_share=I8KJpSSZpBcRFO9M8G5D92KkX1ptRDku
+```
+
 ### ---------- Tecnologias Utilizadas
 
 - React (com Vite)
