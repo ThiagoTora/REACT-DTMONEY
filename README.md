@@ -36,8 +36,13 @@ O DT Money é uma aplicação de controlo financeiro desenvolvida para ajudar os
     ```bash
         npm install
     ```
+3. Iniciar a API (JSON Server):
+
+    ```bash
+        npm run dev:server
+    ```
     
-3. Execute o servidor de desenvolvimento:
+4. Iniciar a aplicação
    
     ```bash
          npm run dev
