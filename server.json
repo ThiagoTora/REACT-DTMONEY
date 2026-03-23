@@ -71,6 +71,22 @@
       "category": "comida",
       "type": "income",
       "createdAt": "2026-03-23T01:34:43.511Z"
+    },
+    {
+      "id": "6db4",
+      "description": "dads",
+      "price": 132,
+      "category": "comida",
+      "type": "outcome",
+      "createdAt": "2026-03-23T01:52:35.110Z"
+    },
+    {
+      "id": "8faf",
+      "description": "Desenvolvimento",
+      "price": 132,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2026-03-23T02:20:13.575Z"
     }
   ]
 }
