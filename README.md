@@ -49,55 +49,56 @@ O DT Money é uma aplicação de controlo financeiro desenvolvida para ajudar os
     ```
 
 ### ---------- ESTRUTURA DO PROJETO
-
-REACT-DTMONEY/
-├── public/
-│   └── vite.svg
-├── src/
-│   ├── @types/
-│   │   └── styled.d.ts
-│   ├── assets/
-│   │   └── logo.svg
-│   ├── components/
-│   │   ├── Header/
-│   │   │   ├── index.tsx
-│   │   │   └── styles.ts
-│   │   ├── NewTransactionsModal/
-│   │   │   ├── index.tsx
-│   │   │   └── styles.ts
-│   │   └── Summary/
-│   │       ├── index.tsx
-│   │       └── styles.ts
-│   ├── Contexts/
-│   │   └── TransactionsContext.tsx
-│   ├── hooks/
-│   │   └── useSummary.tsx
-│   ├── lib/
-│   │   └── axios.ts
-│   ├── pages/
-│   │   └── Transactions/
-│   │       ├── components/
-│   │       │   └── SearchForm/
-│   │       │       ├── index.tsx
-│   │       │       └── styles.ts
-│   │       ├── index.tsx
-│   │       └── styles.ts
-│   ├── styles/
-│   │   ├── themes/
-│   │   │   └── default.ts
-│   │   └── global.ts
-│   ├── utils/
-│   │   └── formatter.ts
-│   ├── App.tsx
-│   ├── main.tsx
-│   └── vite-env.d.ts
-├── .eslintrc.json
-├── .gitignore
-├── index.html
-├── package.json
-├── package-lock.json
-├── server.json
-├── tsconfig.json
-├── tsconfig.app.json
-├── tsconfig.node.json
-└── vite.config.ts
+```bash
+   REACT-DTMONEY/
+   ├── public/
+   │   └── vite.svg
+   ├── src/
+   │   ├── @types/
+   │   │   └── styled.d.ts
+   │   ├── assets/
+   │   │   └── logo.svg
+   │   ├── components/
+   │   │   ├── Header/
+   │   │   │   ├── index.tsx
+   │   │   │   └── styles.ts
+   │   │   ├── NewTransactionsModal/
+   │   │   │   ├── index.tsx
+   │   │   │   └── styles.ts
+   │   │   └── Summary/
+   │   │       ├── index.tsx
+   │   │       └── styles.ts
+   │   ├── Contexts/
+   │   │   └── TransactionsContext.tsx
+   │   ├── hooks/
+   │   │   └── useSummary.tsx
+   │   ├── lib/
+   │   │   └── axios.ts
+   │   ├── pages/
+   │   │   └── Transactions/
+   │   │       ├── components/
+   │   │       │   └── SearchForm/
+   │   │       │       ├── index.tsx
+   │   │       │       └── styles.ts
+   │   │       ├── index.tsx
+   │   │       └── styles.ts
+   │   ├── styles/
+   │   │   ├── themes/
+   │   │   │   └── default.ts
+   │   │   └── global.ts
+   │   ├── utils/
+   │   │   └── formatter.ts
+   │   ├── App.tsx
+   │   ├── main.tsx
+   │   └── vite-env.d.ts
+   ├── .eslintrc.json
+   ├── .gitignore
+   ├── index.html
+   ├── package.json
+   ├── package-lock.json
+   ├── server.json
+   ├── tsconfig.json
+   ├── tsconfig.app.json
+   ├── tsconfig.node.json
+   └── vite.config.ts
+```
