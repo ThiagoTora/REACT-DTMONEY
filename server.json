@@ -1,0 +1,76 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2002-07-29T19:36:44.505Z"
+    },
+    {
+      "id": "2",
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 14,
+      "createdAt": "2002-07-29T19:40:44.505Z"
+    },
+    {
+      "id": "3",
+      "description": "Silksong",
+      "type": "income",
+      "category": "Gameplay",
+      "price": 60,
+      "createdAt": "2002-07-29T19:41:00.505Z"
+    },
+    {
+      "id": "4",
+      "description": "Manutenção",
+      "type": "outcome",
+      "category": "Manutenção",
+      "price": 2000,
+      "createdAt": "2002-07-29T19:40:20.505Z"
+    },
+    {
+      "id": "f225",
+      "description": "Desenvolvimento de APP",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2025-10-09T14:33:10.492Z"
+    },
+    {
+      "id": "81fb",
+      "description": "Desenvolvimento de APP",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2025-10-09T14:33:12.540Z"
+    },
+    {
+      "id": "5b03",
+      "description": "Hamburguer",
+      "price": 1286,
+      "category": "comida",
+      "type": "outcome",
+      "createdAt": "2025-10-09T14:47:38.543Z"
+    },
+    {
+      "id": "4bff",
+      "description": "Hamburguer",
+      "price": 1286,
+      "category": "comida",
+      "type": "income",
+      "createdAt": "2025-10-10T13:17:38.149Z"
+    },
+    {
+      "id": "0830",
+      "description": "Desenvolvimento de APP",
+      "price": 1286,
+      "category": "comida",
+      "type": "income",
+      "createdAt": "2026-03-23T01:34:43.511Z"
+    }
+  ]
+}
